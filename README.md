@@ -1,6 +1,1 @@
-# README
-👋 Hi, I’m khr0me
-👀 New to coding
-💻 I’m currently learning Python, Java, JavaScript, ASM 8086, HTML and CSS
-⭐ Specialized in Full-Stack
-📍 Italy, VE
+<img href="https://github-readme-stats.vercel.app/api?username=khr0me&show_icons=true&locale=en&count_private=true&theme=dracula">
